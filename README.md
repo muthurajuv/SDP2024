@@ -1,2 +1,2 @@
 # SDP2024
-Workshop
+1st change - This Workshop will be conducted 20th Sep 2024
